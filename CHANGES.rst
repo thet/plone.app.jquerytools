@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.5.6 (unreleased)
-------------------
+1.5.6dev (unreleased)
+---------------------
 
 - Backport pull-req https://github.com/jquerytools/jquerytools/pull/873 and
   apply in other jquerytools files too: Fix API of outerWidth and outerHeight
